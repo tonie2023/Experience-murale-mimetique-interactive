@@ -4,4 +4,4 @@
 
 ### titre_2
 
-[titre_3](https://www.youtube.com/watch?v=Q-0KR2F0oEk&list=PLzvh5MS6DSDKH1AK__PkGnLXc-RfZPWBt&index=2)
+[![Audio visualizer](/image.jpg)](https://www.youtube.com/watch?v=Q-0KR2F0oEk&list=PLzvh5MS6DSDKH1AK__PkGnLXc-RfZPWBt&index=2)
