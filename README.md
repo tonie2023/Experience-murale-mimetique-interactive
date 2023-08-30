@@ -1,4 +1,4 @@
-# *Monde virtuel*
+# *Mondes virtuels*
 
 ## Métavers
 
