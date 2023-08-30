@@ -49,7 +49,7 @@
 
 
 
-### Exemple visuel du concept de monde virtuel
+### Exemples visuel du concept de monde virtuel
 
 1. [Gamer(2009)](https://www.youtube.com/watch?v=Cn3iDcKK1ec)
 2. [Free Guy(2021)](https://www.youtube.com/watch?v=X2m-08cOAbc)
