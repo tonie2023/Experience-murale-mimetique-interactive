@@ -16,8 +16,8 @@
 
 > Les mondes virtuels se trouvent à la frontière entre la fiction et la réalité.
 > Par exemple:
--Les jeux vidéo en réalité virtuelle
--Les casques de réalité virtuelle
--Les jeux tels que Diablo 4, Baldur's gate 3 ou encore Warzones
+- Les jeux vidéo en réalité virtuelle
+- Les casques de réalité virtuelle
+- Les jeux tels que Diablo 4, Baldur's gate 3 ou encore Warzones
 
  >**Dans le cas du Métavers cette réalité virtuelle imaginée par Meta relève encore de la fiction, mais pour combien de temps encore?**
