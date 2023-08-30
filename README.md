@@ -2,5 +2,5 @@
 
 ## Métavers
 
-![alt text](metavers.jpg)
+![alt text](/metavers.jpg)
 
