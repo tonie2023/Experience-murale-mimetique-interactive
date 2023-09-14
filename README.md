@@ -22,7 +22,7 @@
 
 ####Par exemple : La chenille à tête de serpent
 
-[Chenille à tête de serpent](https://www.youtube.com/watch?v=d6UpvkSdcrU)
+[Vidéo](https://www.youtube.com/watch?v=d6UpvkSdcrU)
 
 ###Le dupé
 
