@@ -22,7 +22,7 @@
 
 ####Par exemple : La chenille à tête de serpent
 
-![Chenille à tête de serpent](snake_head.jpg)
+![Chenille à tête de serpent](snake.jpg)
 
 ###Le dupé
 
