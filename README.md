@@ -12,23 +12,23 @@
 
 ## Qui sont ces acteurs?
 
-### Le modèle
+>**Le modèle**
 
 -L'espèce de référence(Par exemple : serpent)
 
-### L'imitateur
+>**L'imitateur**
 
 -Une espèce cherchant à se protéger par l'imitation.
 
-### Par exemple : La chenille à tête de serpent
+>**Par exemple :** La chenille à tête de serpent
 
 [Vidéo](https://www.youtube.com/watch?v=d6UpvkSdcrU)
 
-### Le dupé
+> **Le dupé**
 
 > La ou les espèces visées
 
-### Par exemple : L'humain
+> Par exemple : L'humain
 
 ![vigilance](https://media4.giphy.com/media/lirn1IJDukVLq/giphy.gif?cid=ecf05e47ldlpz702mchicx6k0fftvmcev0ofc6u9bx2gn2go&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
