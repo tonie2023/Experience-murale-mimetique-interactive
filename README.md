@@ -1,4 +1,4 @@
-# *Mimétisme interactive*
+# *Mimétisme interactif*
 
 ## Qu'est-ce que le mimétisme?
 
