@@ -1,5 +1,14 @@
 # *Mimétisme interactif*
 
+## Concept de projet multimédia potentiel
+
+>Le projet utiliserait le concept du mimétisme au sens propre. Ce que l'on entend par là, c'est d'utiliser différents types de technologies multimédia pour créer un projet dans un espace sélectionné où le mimétisme selon la direction choisie viendra créer une expérience unique pour les visiteurs.
+>Une description générale du projet serait d'utiliser soit une structure en forme de sphère ou bulle où les visiteurs entreraient à l'intérieur ou un parcours interactif. L'application des technologies multimédias sélectionnées au concept du mimétisme viendraient jouer sur deux sens humains l'ouïe et la vue.
+> Pour que vous puissiez comprendre l'idée de ce concept de projet potentiel voici deux bref exemples :
+
+[Exemple de la vue](https://www.youtube.com/watch?v=UZAO_07GdSs)
+[Exemple auditif](https://www.youtube.com/watch?v=-ptrYHCVK8E)
+
 ## Qu'est-ce que le mimétisme?
 
 
