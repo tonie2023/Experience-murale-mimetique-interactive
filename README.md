@@ -7,6 +7,7 @@
 > Pour que vous puissiez comprendre l'idée de ce concept de projet potentiel voici deux bref exemples :
 
 [Exemple de la vue](https://www.youtube.com/watch?v=UZAO_07GdSs)
+
 [Exemple auditif](https://www.youtube.com/watch?v=-ptrYHCVK8E)
 
 ## Qu'est-ce que le mimétisme?
