@@ -1,11 +1,10 @@
 # *Mimétisme interactif*
 
-## Concept de projet multimédia potentiel
+## Conceptualisation du projet
 
->Le projet utiliserait le concept du mimétisme au sens propre. Ce que l'on entend par là, c'est d'utiliser différents types de technologies multimédia pour créer un projet dans un espace sélectionné où le mimétisme selon la direction choisie viendra créer une expérience unique pour les visiteurs.
->Une description générale du projet serait d'utiliser soit une structure en forme de sphère ou bulle où les visiteurs entreraient à l'intérieur ou un parcours interactif. L'application des technologies multimédias sélectionnées au concept du mimétisme viendraient jouer sur deux sens humains l'ouïe et la vue.
-> Pour que vous puissiez comprendre l'idée de ce concept de projet potentiel voici deux bref exemples :
-
+>Le concept du mimétisme qui sera appliqué au projet à l'hiver prochain aura pour but de faire vivre une expérience interactive visuelle et auditive aux visiteurs.
+>Cette expérience interactive sera en toute sommes simple et complexe à la fois. Ce projet se tiendrait à l'intérieur dans le grand studio et pourrait accueillir de une à plusieurs personnes. Dans le grand studio, l'installation serait constitué d'une structure murale où des leds y seraient installées. Également, il y aurait une kinect pour reconnaître les mouvements humains qui interagirait avec les leds sur la structure murale et aussi il y aurait l'utilisation de hauts-parleurs qui viendraient compléter l'interactivité entre la structure murale de leds.
+>Cette expérience avec le concept du mimétisme viendraient jouer sur la vue et l'ouie. La kinect reproduirait les mouvements humains sur le mur de leds. 
 [Exemple de la vue](https://www.youtube.com/watch?v=UZAO_07GdSs)
 
 [Exemple auditif](https://www.youtube.com/watch?v=-ptrYHCVK8E)
