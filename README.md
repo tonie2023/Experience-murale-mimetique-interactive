@@ -2,7 +2,7 @@
 
 ## Conceptualisation du projet
 
->Le concept du mimétisme qui sera appliqué au projet à l'hiver prochain aura pour but de faire vivre une expérience interactive visuelle et auditive aux visiteurs.
+>Le concept du mimétisme sera à la base de ce projet et aura pour but de faire vivre une expérience interactive visuelle et auditive aux visiteurs.
 
 
 >Cette expérience interactive sera en toute sommes simple et complexe à la fois. Ce projet se tiendrait à l'intérieur dans le grand studio et pourrait accueillir de une à plusieurs personnes. Dans le grand studio, l'installation serait constitué d'une structure murale où des leds y seraient installées. Également, il y aurait une kinect pour reconnaître les mouvements humains qui interagirait avec les leds sur la structure murale et aussi il y aurait l'utilisation de hauts-parleurs qui viendraient compléter l'interactivité entre la structure murale de leds.
