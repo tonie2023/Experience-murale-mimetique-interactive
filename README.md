@@ -15,7 +15,7 @@
 >Ces sons pourrraient avoir plusieurs sens, mais l'une des idées potentielles serait de créer des sons rappelant l'espoir, la colère, etc.
 
 
-![connexion](/documents/mur_leds.webp)
+![connexion]([/documents/mur_leds.webp](https://github.com/tonie2023/Mimetisme-interactif/assets/90867645/b74c4cac-ff5f-4921-8628-66d8f63afe55))
 
 ## Emplacement potentiel du projet
 
