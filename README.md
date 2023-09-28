@@ -8,49 +8,48 @@
 >Cette expérience interactive sera en toute sommes simple et complexe à la fois. Ce projet se tiendrait à l'intérieur dans le grand studio et pourrait accueillir de une à plusieurs personnes. Dans le grand studio, l'installation serait constitué d'une structure murale où des leds y seraient installées. Également, il y aurait une kinect pour reconnaître les mouvements humains qui interagirait avec les leds sur la structure murale et aussi il y aurait l'utilisation de hauts-parleurs qui viendraient compléter l'interactivité entre la structure murale de leds.
 
 
->Cette expérience avec le concept du mimétisme viendraient jouer sur la vue et l'ouie. La kinect reproduirait les mouvements humains sur le mur de leds. 
-[Exemple de la vue](https://www.youtube.com/watch?v=UZAO_07GdSs)
+>Cette expérience avec le concept du mimétisme viendraient jouer sur la vue et l'ouie. La kinect reproduirait les mouvements humains sur le mur de leds.
 
-[Exemple auditif](https://www.youtube.com/watch?v=-ptrYHCVK8E)
+>Également, il y aurait des sons qui viendraient créer des hallucinations auditive utilisant le concept du mimétisme. Ces sons seraient entendus lorsque deux personnes entreraient en contact par l'intrermédiaire du mur de leds interactives et de la kinect.
 
-## Qu'est-ce que le mimétisme?
-
-
->Le mimétisme est une stratégie adaptative d'imitation visuel, olfactive, acoustique ou comportementale.
-
-[Exemple mimétique](https://youtube.com/shorts/9uYfWi0FyxQ?si=CSXXFHEWCy71NMbi)
-
->Pour que le mimétisme puisse être efficace celui-ci doit agir sur trois acteurs essentiels.
+>Ces sons pourrraient avoir plusieurs sens, mais l'une des idées potentielles serait de créer des sons rappelant l'espoir, la colère, etc.
 
 
-## Qui sont ces acteurs?
+![connexion](image_mimétisme/mur_leds.webp)
 
->**Le modèle**
+## Emplacement potentiel du projet
 
--L'espèce de référence(Par exemple : serpent)
+![grand_studio](image_mimétisme/grand_studio.png)
 
->**L'imitateur**
+## Les logiciels potentiels pour le projet
 
--Une espèce cherchant à se protéger par l'imitation.
+- Madmaper
+- Touch Designer
+- Max
+- Vcv Rack 2
+- Reaper
+- Le logiciel de la kinect
 
->**Par exemple :** La chenille à tête de serpent
+## Les principaux matériaux nécessaire au projet
 
-[Vidéo](https://www.youtube.com/watch?v=d6UpvkSdcrU)
+1. Des leds
+2. La kinect
+3. Une ou des structures murales
+4. Des hauts-parleur
+5. Un ordinateur
+6. Des fils de courants
 
-> **Le dupé**
+>Voici des exemples visuels de certain des objets requis pour la réalisation de ce projet:
 
-> La ou les espèces visées
+![kinect](image_mimétisme/kinect.jfif)
 
-> Par exemple : L'humain
+![mur_leds](image_mimétisme/leds.jfif)
 
-![vigilance](https://media4.giphy.com/media/lirn1IJDukVLq/giphy.gif?cid=ecf05e47ldlpz702mchicx6k0fftvmcev0ofc6u9bx2gn2go&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![rouleau_leds](image_mimétisme/rouleau_leds.jpg)
 
+## Exemple général de l'application du concept du projet
 
-## Applications du mimétisme dans le multimédia
-
-[Exemple 1](https://youtu.be/X1rjexdJBXU?si=hX2Fm7SH-zXJF_oy)
-
-[Exemple 2](https://www.youtube.com/watch?v=rtRscfX8O44)
+[Exemple général](https://www.youtube.com/watch?v=rtRscfX8O44)
 
 
 
