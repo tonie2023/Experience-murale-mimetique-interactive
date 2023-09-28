@@ -15,11 +15,11 @@
 >Ces sons pourrraient avoir plusieurs sens, mais l'une des idées potentielles serait de créer des sons rappelant l'espoir, la colère, etc.
 
 
-![connexion](mur_leds.webp)
+![connexion](/documents/mur_leds.webp)
 
 ## Emplacement potentiel du projet
 
-![grand studio](/grand_studio.png)
+![grand studio](/documents/grand_studio.png)
 
 ## Les logiciels potentiels pour le projet
 
@@ -41,11 +41,11 @@
 
 >Voici des exemples visuels de certain des objets requis pour la réalisation de ce projet:
 
-![kinect](/kinect.jfif)
+![kinect](/documents/kinect.jfif)
 
-![mur de leds](/leds.jfif)
+![mur de leds](/documents/leds.jfif)
 
-![rouleau de leds](/rouleau_leds.jpg)
+![rouleau de leds](/documents/rouleau_leds.jpg)
 
 ## Exemple général de l'application du concept du projet
 
