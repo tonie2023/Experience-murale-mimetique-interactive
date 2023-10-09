@@ -21,6 +21,11 @@
 
 ![grand studio](image_mimetisme/grand_studio.png)
 
+## Conception potentielle de l'emplacement du projet
+
+>Comme il est montré dans l'image ci-haut du grand studio, l'idée pour l'installation des divers éléments serait de placer deux structures murales collées pouvant accueillir au moins 2 personnes et duquel la kinect avec l'aide du ou des logiciels copierait les mouvements des participants qu'un projecteur viendrait exposer sur les structures murales.
+>Au quatre extrémitées de la zone délimitée du projet, il y aurait des hauts-parleurs qui viendrait englober les participants et ainsi ajouter une expérience sonore intéressante.
+
 ## Les logiciels potentiels pour le projet
 
 - Madmaper
@@ -34,10 +39,11 @@
 
 1. Des leds
 2. La kinect
-3. Une ou des structures murales
-4. Des hauts-parleur
-5. Un ordinateur
-6. Des fils de courants
+3. Un projecteur
+4. Une ou des structures murales
+5. Des hauts-parleurs
+6. Un ordinateur
+7. Des fils de courants
 
 >Voici des exemples visuels de certain des objets requis pour la réalisation de ce projet:
 
