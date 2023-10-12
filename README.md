@@ -1,4 +1,4 @@
-# *Expérience murale mimétique interactif*
+# *Expérience murale mimétique interactive*
 
 ## Conceptualisation du projet
 
@@ -50,11 +50,13 @@
 >Voici des exemples visuels de certain des objets requis pour la réalisation de ce projet:
 
 ![kinect](image_mimetisme/kinect.jfif)
->**Source :** [TIM Montmorency](https://tim-montmorency.com/)
+>**Source :** [Wikipedia](https://en.wikipedia.org/wiki/Kinect)
 
 ![mur de leds](image_mimetisme/leds.jfif)
+>**Source :** [Pinterest](https://www.pinterest.com/pin/make-an-interactive-ipad-controlled-led-wall--382594930841529652/)
 
 ![rouleau de leds](image_mimetisme/rouleau_leds.jpg)
+>**Source :** [Amazon](https://www.amazon.ca/-/fr/lumineuse-%C3%A9tanche-flexible-ext%C3%A9rieur-alimentation/dp/B018YPDH0C/ref=d_pd_sim_sccl_2_2/134-4322607-2920104?pd_rd_w=fEON0&content-id=amzn1.sym.ba3b5291-ec4c-43f7-af1a-7e847a923d90&pf_rd_p=ba3b5291-ec4c-43f7-af1a-7e847a923d90&pf_rd_r=JZ8ZRQDX0ZSRA2WK37JK&pd_rd_wg=MymIK&pd_rd_r=98e61a14-d489-4f6b-97b2-c0b1c3ee7580&pd_rd_i=B018YPDH0C&th=1)
 
 ## Exemple général de l'application du concept du projet
 
