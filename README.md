@@ -1,4 +1,4 @@
-# *Mimétisme interactif*
+# *Expérience murale mimétique interactif*
 
 ## Conceptualisation du projet
 
@@ -16,10 +16,12 @@
 
 
 ![connexion](/image_mimetisme/mur_leds.webp)
+>**Source :** [Quartier du digital](https://quartierdudigital.fr/un-mur-interactif-par-google/)
 
 ## Emplacement potentiel du projet
 
 ![grand studio](image_mimetisme/grand_studio.png)
+>**Source :** [TIM Montmorency](https://tim-montmorency.com/)
 
 ## Conception potentielle de l'emplacement du projet
 
@@ -48,6 +50,7 @@
 >Voici des exemples visuels de certain des objets requis pour la réalisation de ce projet:
 
 ![kinect](image_mimetisme/kinect.jfif)
+>**Source :** [TIM Montmorency](https://tim-montmorency.com/)
 
 ![mur de leds](image_mimetisme/leds.jfif)
 
